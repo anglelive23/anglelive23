@@ -51,6 +51,10 @@ I am a .NET Developer | Back-end Web Developer | Full Stack Web Developer <img s
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL Server" title="MSSQL Server" alt="MSSQL Server" width="40" height="40"/> 
   </a>
 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/svg/88703/api" title="ASP.NET Core Web API" title="ASP.NET Core Web API" alt="ASP.NET Core Web API" width="40" height="40"/> 
+  </a>
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/> 
   </a> 
