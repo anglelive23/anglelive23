@@ -56,7 +56,7 @@ I am a .NET Developer | Back-end Web Developer | Full Stack Web Developer <img s
   </a>
 
   <a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/373444/aspx.svg" title="ASP.NET Core MVC" title="ASP.NET Core MVC" alt="ASP.NET Core MVC" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203" title="ASP.NET Core MVC" title="ASP.NET Core MVC" alt="ASP.NET Core MVC" width="40" height="40"/> 
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
