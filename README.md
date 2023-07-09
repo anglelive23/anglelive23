@@ -109,4 +109,6 @@ I am a .NET Developer | Back-end Web Developer | Full Stack Web Developer <img s
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anglelive23&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ahmed Allam Stats" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anglelive23&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Ahmed Allam Stats" /></p>
