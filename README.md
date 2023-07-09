@@ -19,12 +19,17 @@
 ---
 
 ### :man_technologist: About Me :
-Hello! I'm Ahmed Allam, a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt with expertise in building robust and scalable web applications. I have a strong foundation in server-side programming and a deep understanding of database management systems.
-- :telescope: I’m working as a Software Engineer at Encore Software LTD and contributing to backend for building modern web applications.
+👋 Backend Developer | Building robust and scalable web applications | Expert C# and .NET Core.
 
-- :seedling: As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+🔧 Passionate about server-side programming, database management, and API design.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech news regarding .NET and C#.
+💡 Strong problem-solving skills | Keen eye for detail | Excellent communicator.
+
+🌱 Constantly learning and exploring new technologies | Dedicated to writing clean, maintainable code.
+
+🤝 Collaborative team player | Thrive in cross-functional environments.
+
+🚀 Actively seeking backend development opportunities | Let's create exceptional software together!
 
 - :speech_balloon: Ask me about my experience with C#, SQL Server, ASP.NET Core MVC, ASP.NET Core Web API, GRPC, Microservices or anything related to web development.
 
