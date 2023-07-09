@@ -29,7 +29,7 @@ I am a .NET Developer | Back-end Web Developer | Full Stack Web Developer <img s
 - :speech_balloon: Ask me about 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allamjr/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](anglelive23@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anglelive23@gmail.com)
 
 ---
 
