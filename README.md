@@ -55,7 +55,7 @@ I am a .NET Developer | Back-end Web Developer | Full Stack Web Developer <img s
     <img src="https://www.svgrepo.com/show/88703/api.svg" title="ASP.NET Core Web API" title="ASP.NET Core Web API" alt="ASP.NET Core Web API" width="40" height="40"/> 
   </a>
 
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-7.0" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203" title="ASP.NET Core MVC" title="ASP.NET Core MVC" alt="ASP.NET Core MVC" width="40" height="40"/> 
   </a>
 
@@ -79,9 +79,17 @@ I am a .NET Developer | Back-end Web Developer | Full Stack Web Developer <img s
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> 
   </a>
 
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/> 
+  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/> 
   </a> 
+
+  <a href="https://visualstudio.microsoft.com/" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" title="Visual Studio" alt="Visual Studio" width="40" height="40"/> 
+  </a>
 </div>
 
 ---
