@@ -40,11 +40,7 @@ I am a .NET Developer | Back-end Web Developer | Full Stack Web Developer <img s
 
 <div>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="angular" title="Angular" alt="Angular" width="40" height="40"/> 
-  </a>
-
-  <a href="https://angular.io" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff" title="C#" title="C#" alt="C#" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" title="C#" alt="C#" width="40" height="40"/> 
   </a>
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
