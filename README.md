@@ -31,7 +31,7 @@
 
 🚀 Actively seeking backend development opportunities | Let's create exceptional software together!
 
-- :speech_balloon: Ask me about my experience with C#, SQL Server, ASP.NET Core MVC, ASP.NET Core Web API, GRPC, Microservices or anything related to web development.
+:speech_balloon: Ask me about my experience with C#, SQL Server, ASP.NET Core MVC, ASP.NET Core Web API, GRPC, Microservices or anything related to web development.
 
 - :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/allamjr/)
